@@ -1,0 +1,2 @@
+USE MyyntiDB;
+GO
