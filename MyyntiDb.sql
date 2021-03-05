@@ -1,4 +1,4 @@
 USE MyyntiDB;
 GO
 
-SELECT TOM 5 * FROM Asiakas;
+SELECT TOP 5 * FROM Asiakas;
